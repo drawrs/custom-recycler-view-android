@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a0ec77fa08d3ee73c0225bf5a872a7afe8e571cb">
+        <dex dex="/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5add36f0ea9e4a255a3f195631a6c64c97d54e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9a752aaf93cfb76dc4fb0ac7f6fc26e866d7f977/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/alpukat.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/alpukat.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/apel.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/apel.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/jambuair.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/jambuair.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/manggis.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/manggis.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/ceri.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/ceri.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/strawberry.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/strawberry.mp3"
+    },
+    {
+        "merged": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/build/intermediates/res/merged/debug/raw/durian.mp3",
+        "source": "/home/khilman/Desktop/basic25sep/CustomRecyclerView/app/src/main/res/raw/durian.mp3"
+    }
+]
